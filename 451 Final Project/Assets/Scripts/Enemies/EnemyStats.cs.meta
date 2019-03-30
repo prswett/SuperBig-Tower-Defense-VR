@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4489e3f5ba6a00040a2f941705bdbbf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RushEnemy: {instanceID: 0}
+  - HoverEnemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

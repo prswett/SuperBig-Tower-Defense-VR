@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23eb523b3695f444a909c1352b62884f, type: 3}
+  m_Name: SteamVR_Input_ActionSet_default_In
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 0
+  actions:
+  - {fileID: 11400000, guid: 03d7f20be36d8dd40962df5d311e487a, type: 2}
+  - {fileID: 11400000, guid: 190f2d23a2676c543baa6c4684b3b1c5, type: 2}
+  - {fileID: 11400000, guid: ce38167957d94a942b47641130bdbd5c, type: 2}
+  - {fileID: 11400000, guid: e4b5abc75571d994fb7a6edf0f6e5fd1, type: 2}
+  - {fileID: 11400000, guid: 8efaa57d287ed664fb471ba10e3f6e61, type: 2}
+  - {fileID: 11400000, guid: c5091fb652411d6409e8aee37ae550d8, type: 2}
+  - {fileID: 11400000, guid: 2266d694936ba5a4db1a0790ed258c35, type: 2}
+  - {fileID: 11400000, guid: cc6a9869b0212834aa32ae0ce8c28f80, type: 2}
+  - {fileID: 11400000, guid: 9a285338feebe0448acccbe540565276, type: 2}
+  - {fileID: 11400000, guid: 06b2ccd0d96b73e4eb947728f6b3a368, type: 2}
+  - {fileID: 11400000, guid: 9e74310866ccfa54da1fae906e14545c, type: 2}
+  - {fileID: 11400000, guid: a7f751114a7f8dc4eac9a5dc2ced7d0b, type: 2}
+  - {fileID: 11400000, guid: 7b2fdfcd31160154796f354485891117, type: 2}
+  - {fileID: 11400000, guid: 8299b15584290944e9ee1d52301ebc8b, type: 2}
+  InteractUI: {fileID: 11400000, guid: 03d7f20be36d8dd40962df5d311e487a, type: 2}
+  Teleport: {fileID: 11400000, guid: 190f2d23a2676c543baa6c4684b3b1c5, type: 2}
+  GrabPinch: {fileID: 11400000, guid: ce38167957d94a942b47641130bdbd5c, type: 2}
+  GrabGrip: {fileID: 11400000, guid: e4b5abc75571d994fb7a6edf0f6e5fd1, type: 2}
+  Pose: {fileID: 11400000, guid: 8efaa57d287ed664fb471ba10e3f6e61, type: 2}
+  SkeletonLeftHand: {fileID: 11400000, guid: c5091fb652411d6409e8aee37ae550d8, type: 2}
+  SkeletonRightHand: {fileID: 11400000, guid: 2266d694936ba5a4db1a0790ed258c35, type: 2}
+  Squeeze: {fileID: 11400000, guid: cc6a9869b0212834aa32ae0ce8c28f80, type: 2}
+  DPadRight: {fileID: 11400000, guid: 9a285338feebe0448acccbe540565276, type: 2}
+  DPadCenter: {fileID: 11400000, guid: 06b2ccd0d96b73e4eb947728f6b3a368, type: 2}
+  DPadLeft: {fileID: 11400000, guid: 9e74310866ccfa54da1fae906e14545c, type: 2}
+  DPadUp: {fileID: 11400000, guid: a7f751114a7f8dc4eac9a5dc2ced7d0b, type: 2}
+  DPadDown: {fileID: 11400000, guid: 7b2fdfcd31160154796f354485891117, type: 2}
+  StartNextLevel: {fileID: 11400000, guid: 8299b15584290944e9ee1d52301ebc8b, type: 2}
